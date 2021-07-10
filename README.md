@@ -11,7 +11,9 @@
 ### Project step by step :
 
 1 - cleaning the dataset 
+
 2 - exploring and visualizing the datas to determine best market value players and performant players  
+
 3 - predicting the market value of the players using linear regression models
 
 I have decided to run the linear regression model on two datasets :
@@ -33,15 +35,20 @@ Based on this result, we may say that the market value of a football player can 
 
 #### Documentation
 
- * All the datasets as well as the graphs can be found on the repository
+ * Original and cleaned datasets  as well as the graphs used in this project can be found on the folder documentation
  
  * Sources 
  https://www.kaggle.com/ekrembayar/fifa-21-complete-player-dataset)
  
  * List of libraries (with a link to the documentation)
 https://scikit-learn.org/stable/index.html
+
 https://docs.scipy.org/doc/scipy/reference/index.html
+
 https://pandas.pydata.org/
+
 https://numpy.org/doc/
+
 https://matplotlib.org/3.1.1/
+
 https://seaborn.pydata.org
